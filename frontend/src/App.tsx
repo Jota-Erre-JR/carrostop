@@ -1,12 +1,16 @@
 import React from 'react';
+import Navbar from './components/Navbar';
 import './assets/styles/custom.scss';
 
 import './App.css';
 
-function App() {
+const App = () => {
   return (
-    <h1 className="bg-primary">Carros Top</h1>
+    <>
+      <Navbar />
+      <h1>Carros Top</h1>
+    </>
   );
-}
+};
 
 export default App;
