@@ -1,0 +1,15 @@
+.btn, .btn:hover, .btn.active, .btn.disable{
+    background-color: #00285F;
+    color: #FFFFFF;
+    border-radius: 5px;
+    height: 40px;
+    width: 170px;
+    font-size: 14px;
+    font-weight: 700;
+    align-content: center;
+}
+
+.btn p{
+    margin-bottom: 0px;
+}
+

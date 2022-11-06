@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <>
       <nav className="navbar navbar-expand-md bg-primary main-nav">
-        <div className="container-fluid">
+        <div className="container">
           <a href="link" className="nav-logo-text">
             <h4>Carros Top</h4>
           </a>
@@ -23,7 +23,7 @@ const Navbar = () => {
           </button>
 
           <div className="collapse navbar-collapse" id="carrostop-navbar">
-            <ul className="navbar-nav offset-md-8 main-menu">
+            <ul className="navbar-nav offset-md-8 offset-lg-9 offset-xl-9 main-menu">
               <li>
                 <a href="link" className="active">
                   Home
