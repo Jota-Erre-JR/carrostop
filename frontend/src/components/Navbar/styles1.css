@@ -59,7 +59,7 @@
   }
 
   .main-nav {
-    padding-left: calc(20px + calc(100% - 576px) / 2);
+    padding-left: calc(30px + calc(100% - 576px) / 2);
     padding-right: calc(20px + calc(100% - 576px) / 2);
   }
 }
@@ -70,7 +70,7 @@
   }
 
   .main-nav {
-    padding-left: calc(20px + calc(100% - 768px) / 2);
+    padding-left: calc(30px + calc(100% - 768px) / 2);
     padding-right: calc(20px + calc(100% - 768px) / 2);
   }
 }
@@ -81,7 +81,7 @@
   }
 
   .main-nav {
-    padding-left: calc(20px + calc(100% - 992px) / 2);
+    padding-left: calc(30px + calc(100% - 992px) / 2);
     padding-right: calc(20px + calc(100% - 992px) / 2);
   }
 }

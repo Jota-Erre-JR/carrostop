@@ -1,10 +1,12 @@
-import './styles.css'
+import './styles2.css'
 
 const ButtonIcon = () =>{
     return(
-        <button className="btn">
+        <div>
+        <button type="button" className="btn btn-primary btn-home-catalog">
             <p>VER CATÁLOGO</p>
         </button>
+        </div>
     )
 }
 

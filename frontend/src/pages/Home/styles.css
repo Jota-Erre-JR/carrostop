@@ -43,11 +43,10 @@
   height: 123px;
 }
 
-.home-cta-txt p{
-    font-size: 18px;
-    color: #585858;
-    margin-top: 9px;
-
+.home-cta-txt p {
+  font-size: 18px;
+  color: #585858;
+  margin-top: 9px;
 }
 
 @media (min-width: 576px) {
@@ -57,8 +56,8 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-}
-  
+  }
+
   /* Banner */
   .home-card {
     border-radius: 10px;
@@ -66,12 +65,12 @@
     height: 365px;
     width: 536px;
   }
-  
+
   .home-image-container svg {
-    Width: 333px;
-    Height: 199px;
+    width: 333px;
+    height: 199px;
   }
-  
+
   .home-content-container {
     margin-top: 19px;
   }
@@ -79,27 +78,25 @@
     font-size: 36px;
     font-weight: 700;
   }
-  
+
   .home-content-container p {
     margin-top: 3px;
     font-size: 18px;
   }
-  
+
   /* CTA */
   .home-cta-navigation {
     margin-top: 20px;
     padding: 42px 62px 41px 85px;
-    background-color: #ededed;
     display: flex;
     flex-direction: row;
-    align-items:center;
+    align-items: center;
     align-content: center;
-    border-radius: 10px;
     height: 123px;
     width: 536px;
   }
-  
-  .home-cta-txt p{
+
+  .home-cta-txt p {
     margin-top: 9px;
     margin-left: 16px;
   }
@@ -108,25 +105,20 @@
 @media (min-width: 768px) {
   .home-container {
     padding: 30px 20px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-  
-}
-  
+  }
+
   /* Banner */
   .home-card {
-   padding: 79px 145px 76px 145px;
+    padding: 79px 145px 76px 145px;
     height: 475px;
     width: 728px;
   }
-  
+
   .home-image-container svg {
-    Width: 333px;
-    Height: 199px;
+    width: 333px;
+    height: 199px;
   }
-  
+
   .home-content-container {
     margin-top: 37px;
   }
@@ -134,26 +126,21 @@
     font-size: 36px;
     font-weight: 700;
   }
-  
+
   .home-content-container p {
     margin-top: 3px;
   }
-  
+
   /* CTA */
   .home-cta-navigation {
     margin-top: 20px;
     padding: 42px 62px 41px 85px;
-    background-color: #ededed;
-    display: flex;
-    flex-direction: row;
-    align-items:center;
-    align-content: center;
     border-radius: 10px;
     height: 123px;
     width: 728px;
   }
-  
-  .home-cta-txt p{
+
+  .home-cta-txt p {
     margin-top: 15px;
     margin-left: 16px;
   }
@@ -162,25 +149,20 @@
 @media (min-width: 992px) {
   .home-container {
     padding: 30px 20px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-  
-}
-  
+  }
+
   /* Banner */
   .home-card {
-   padding: 82px 249px 124px 248px;
+    padding: 82px 249px 124px 248px;
     height: 579px;
     width: 952px;
   }
-  
+
   .home-image-container svg {
-    Width: 455px;
-    Height: 272px;
+    width: 455px;
+    height: 272px;
   }
-  
+
   .home-content-container {
     margin-top: 37px;
   }
@@ -188,11 +170,11 @@
     font-size: 36px;
     font-weight: 700;
   }
-  
+
   .home-content-container p {
     margin-top: 3px;
   }
-  
+
   /* CTA */
   .home-cta-navigation {
     margin-top: 20px;
@@ -200,14 +182,14 @@
     background-color: #ededed;
     display: flex;
     flex-direction: row;
-    align-items:center;
+    align-items: center;
     align-content: center;
     border-radius: 10px;
     height: 123px;
     width: 952px;
   }
-  
-  .home-cta-txt p{
+
+  .home-cta-txt p {
     margin-top: 15px;
     margin-left: 16px;
   }
@@ -217,14 +199,9 @@
   .home-container {
     padding-top: 30px;
     padding-bottom: calc(100vh - 618px);
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
     height: calc(80vh + 70px);
-  
-}
-  
+  }
+
   /* Banner */
   .home-card {
     padding: 83px 78px 83px 85px;
@@ -234,13 +211,13 @@
     height: 365px;
     width: 979px;
   }
-  
+
   .home-image-container svg {
     width: 333px;
     height: 199px;
     margin-left: 63px;
   }
-  
+
   .home-content-container {
     margin-top: 0px;
   }
@@ -248,29 +225,18 @@
     font-size: 36px;
     font-weight: 700;
   }
-  
+
   .home-content-container p {
     margin-top: 0px;
     margin-bottom: 0px;
     text-align: left;
   }
-  
+
   /* CTA */
   .home-cta-navigation {
     margin-top: 30px;
     padding: 42px 505px 41px 85px;
-    background-color: #ededed;
-    display: flex;
-    flex-direction: row;
-    align-items:center;
-    align-content: center;
-    border-radius: 10px;
     height: 123px;
     min-width: 979px;
-  }
-  
-  .home-cta-txt p{
-    margin-top: 15px;
-    margin-left: 16px;
   }
 }

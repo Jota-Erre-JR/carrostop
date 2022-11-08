@@ -1,5 +1,6 @@
-.btn, .btn:hover, .btn.active, .btn.disable{
+.btn-home-catalog, .btn-home-catalog:hover, .btn-home-catalog.active, .btn-home-catalog.disable {
     background-color: #00285F;
+    border: 1px solid #00285F;
     color: #FFFFFF;
     border-radius: 5px;
     height: 40px;
@@ -7,9 +8,8 @@
     font-size: 14px;
     font-weight: 700;
     align-content: center;
-}
-
-.btn p{
+  }
+  
+  .btn-home-catalog p{
     margin-bottom: 0px;
-}
-
+  }

@@ -1,12 +1,11 @@
-import Navbar from 'components/Navbar';
 import { ReactComponent as MainImage } from 'assets/images/caryellow768.svg';
 import './styles.css';
 import ButtonIcon from 'components/Button';
+import { Link } from 'react-router-dom';
 
 const Home = () => {
   return (
     <>
-      <Navbar />
       <div className="home-container">
         <div className="home-card">
           <div className="home-image-container">
@@ -22,7 +21,9 @@ const Home = () => {
         </div>
         <div className="home-cta-navigation">
           <div>
-            <ButtonIcon />
+            <Link to="/products">
+              <ButtonIcon />
+            </Link>
           </div>
           <div className="home-cta-txt">
             <p>Comece agora a navegar</p>

@@ -1,0 +1,60 @@
+.catalog-search {
+  padding-left: 10px;
+   padding-right: 10px;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+.main-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+}
+
+.row {
+ margin: 0px 0px 0px 0px;
+}
+
+@media (min-width: 320px) {
+  .main-container, .catalog-search {
+    padding-left: calc(20px + calc(100% - 320px) / 2);
+    padding-right: calc(20px + calc(100% - 320px) / 2);
+  }
+}
+
+@media (min-width: 576px) {
+  .main-container, .catalog-search {
+    padding-left: calc(20px + calc(100% - 576px) / 2);
+    padding-right: calc(20px + calc(100% - 576px) / 2);
+  }
+}
+
+@media (min-width: 768px) {
+  .main-container, .catalog-search {
+    padding-left: calc(20px + calc(100% - 768px) / 2);
+    padding-right: calc(20px + calc(100% - 768px) / 2);
+  }
+}
+
+@media (min-width: 992px) {
+  .main-container, .catalog-search {
+    padding-left: calc(20px + calc(100% - 992px) / 2);
+    padding-right: calc(20px + calc(100% - 992px) / 2);
+  }
+}
+
+
+@media (min-width: 1280px){
+  .main-container, .catalog-search {
+  padding-left: calc(150px + calc(100% - 1280px) / 2);
+  padding-right: calc(150px + calc(100% - 1280px) / 2);
+}
+}
