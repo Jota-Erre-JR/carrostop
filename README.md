@@ -4,14 +4,12 @@
 
 ### Mobile views
 
-![carrostopmob](https://user-images.githubusercontent.com/95655712/200666073-be461fcd-f292-43c4-9841-3e4c86dec9d8.png)
+![carrostopmob](https://user-images.githubusercontent.com/95655712/200670019-52970530-57df-44d6-8fae-87e5a32e4952.png)
 
+![carrostopmob1](https://user-images.githubusercontent.com/95655712/200670165-d90d3777-3111-42f0-bcb2-c82fcdd7bad6.png)
 
-![carrostopmob2](https://user-images.githubusercontent.com/95655712/200666093-6b6892e6-dd08-4858-ada9-ff964d8fe125.png)
+![carrostopmob2](https://user-images.githubusercontent.com/95655712/200670321-1d397f8b-f415-45a5-ad04-9670fbeac079.png)
 
-![carrostop768](https://user-images.githubusercontent.com/95655712/200666134-03de2f08-92a0-4655-bb11-4d195f6be6a7.png)
-
-![carrostop768_2](https://user-images.githubusercontent.com/95655712/200666173-65540b69-ed52-409c-ae4d-645d26030234.png)
 
 ### Web Views
 
