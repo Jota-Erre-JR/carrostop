@@ -1,19 +1,49 @@
 # CARROS TOP
 
 ### Frontend project 
-
+#
 ### Mobile views
 
-![carrostopmob](https://user-images.githubusercontent.com/95655712/200670019-52970530-57df-44d6-8fae-87e5a32e4952.png)
+***320px***
 
-![carrostopmob1](https://user-images.githubusercontent.com/95655712/200670165-d90d3777-3111-42f0-bcb2-c82fcdd7bad6.png)
+<div>
+    <p>
+        <a href="https://github.com/Jota-Erre-JR/carrostop/edit/main/README.md">
+          <img width="300" src="https://github.com/Jota-Erre-JR/carrostop/blob/main/assets/images/carrostopmob.png">
+        </a>
+        <a href="https://github.com/Jota-Erre-JR/carrostop/edit/main/README.md">
+          <img width="300" src="https://github.com/Jota-Erre-JR/carrostop/blob/main/assets/images/carrostopmob1.png">
+        </a>
+        <a>
+          <img width="300" src="https://github.com/Jota-Erre-JR/carrostop/blob/main/assets/images/carrostopmob2.png">
+      </a>  
+     </p>
+ </div>
+ 
+ ***768px***
+ 
+ <div>
+    <p>
+        <a href="https://github.com/Jota-Erre-JR/carrostop/edit/main/README.md">
+          <img width="768" src="https://github.com/Jota-Erre-JR/carrostop/blob/main/assets/images/carrostop768.png">
+        </a>
+        <a href="https://github.com/Jota-Erre-JR/carrostop/edit/main/README.md">
+         <img width="768" src="https://github.com/Jota-Erre-JR/carrostop/blob/main/assets/images/carrostop768_2.png">
+      </a>  
+     </p>
+ </div>
 
-![carrostopmob2](https://user-images.githubusercontent.com/95655712/200670321-1d397f8b-f415-45a5-ad04-9670fbeac079.png)
-
-
+#
 ### Web Views
 
-![carrostop1280](https://user-images.githubusercontent.com/95655712/200666215-9ccce6c1-f335-45ca-96d9-8c63c3d5d63e.png)
-
-
-![carrostop1280_2](https://user-images.githubusercontent.com/95655712/200666281-7359850f-d421-4d2e-b7f8-1caf2eb0bd43.png)
+***1280px up***
+<div>
+    <p>
+        <a href="https://github.com/Jota-Erre-JR/carrostop/edit/main/README.md">
+          <img width="1280" src="https://github.com/Jota-Erre-JR/carrostop/blob/main/assets/images/carrostop1280.png">
+        </a>
+        <a href="https://github.com/Jota-Erre-JR/carrostop/edit/main/README.md">
+         <img width="1280" src="https://github.com/Jota-Erre-JR/carrostop/blob/main/assets/images/carrostop1280_2.png">
+      </a>  
+     </p>
+ </div>
